@@ -1,0 +1,17 @@
+{
+    "nombre": "Gerson Amilcar",
+    "apellido": "Beltran Flores",
+    "email": "gersonbeltranit@gmail.com",
+    "token": "3c73629a-04de-41ba-a77c-df816efda471",
+    "fecha_utc": "2026-11-15T22:36:21.844054+00:00",
+    "sistema_operativo": "Linux",
+    "version_so": "6.18.58.1-microsoft-standard-WSL2",
+    "arquitectura": "x86_64",
+    "procesador": "",
+    "version_python": "3.12.16",
+    "hostname_contenedor": "5d4f605426ac",
+    "plataforma": "OpenFaaS",
+    "funcion": "registro-serverless",
+    "estado": "Ejecucion exitosa",
+    "firma_sha256": "29b387c8deee8ed89abf532c3ac368c503d4f063b551f04baf03bbbba1e9192b"
+}
